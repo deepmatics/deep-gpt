@@ -1,0 +1,13 @@
+**/__pycache__/
+*.pyc
+**/.venv/
+**/env/
+**/.vscode/
+**/.DS_Store
+**/.env
+**/notes.txt
+**/models/
+**/OpenRagBench**
+**/.deepeval
+!**/OpenRagBench/.gitkeep
+!**/.gitkeep
